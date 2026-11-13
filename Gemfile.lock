@@ -108,7 +108,7 @@ GEM
     acts-as-taggable-on (12.0.0)
       activerecord (>= 7.1, < 8.1)
       zeitwerk (>= 2.4, < 3.0)
-    addressable (2.9.0)
+    addressable (2.9.1)
       public_suffix (>= 2.0.2, < 8.0)
     administrate (0.20.1)
       actionpack (>= 6.0, < 8.0)
